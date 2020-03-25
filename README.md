@@ -1,0 +1,2 @@
+# SPS-slider
+Slider Calculator
